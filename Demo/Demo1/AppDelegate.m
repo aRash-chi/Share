@@ -34,7 +34,7 @@
         NSLog(@"微信注册失败！");
     }
     
-    TencentOAuth *oAuth = [[TencentOAuth alloc] initWithAppId:@"1104632138" andDelegate:self];
+    TencentOAuth *oAuth = [[TencentOAuth alloc] initWithAppId:@"100424468" andDelegate:self];
     
     
     
